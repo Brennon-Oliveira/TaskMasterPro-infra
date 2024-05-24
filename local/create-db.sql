@@ -1,0 +1,3 @@
+CREATE DATABASE taskmaster_projects;
+CREATE DATABASE taskmaster_tasks;
+CREATE DATABASE taskmaster_notifications;
